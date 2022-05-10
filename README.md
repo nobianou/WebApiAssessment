@@ -11,4 +11,3 @@ Given a record of every transaction during a three-month period, calculate the r
 •	Create a RESTful endpoint
 •	Make up a data set to best demonstrate your solution
 •	Check solution into GitHub
-![image](https://user-images.githubusercontent.com/60027662/167643817-935ced50-eda5-434a-b019-c5c6dd514326.png)
